@@ -13,4 +13,4 @@ Implementação de uma função que recebe um número inteiro positivo e retorna
 1. Baixe o repositório https://github.com/evertonnasac/desafio-escribo.git.
 2. Navegue até a pasta do projeto utilizando o comando ```cd desafio_escribo```.
 3. Execute o comando ```npm run start```.
-4. Digite o número desejado quando solicitado.
+4. Digite o número desejado quando solicitado no terminal.
